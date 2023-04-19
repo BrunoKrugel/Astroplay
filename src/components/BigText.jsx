@@ -1,6 +1,6 @@
 import Typography from "@mui/material/Typography";
 
-export default function TextoGrande(props) {
+export default function BigText(props) {
   return (
     <Typography
       sx={{
